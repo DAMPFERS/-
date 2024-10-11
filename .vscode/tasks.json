@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+	  {
+		"label": "build",
+		"type": "shell",
+		"command": "g++",
+		"args": [
+		  "-I", "C:/Program Files (x86)/Intel/oneAPI/tbb/latest/include",   // Путь к заголовкам TBB
+		  "${file}",
+		  "-L", "C:/Program Files (x86)/Intel/oneAPI/tbb/latest/lib",  // Путь к библиотекам TBB
+		  "-ltbb",                     // Линкуем библиотеку TBB
+		  "-o",
+		  "${fileDirname}/${fileBasenameNoExtension}.exe"
+		],
+		"group": {
+		  "kind": "build",
+		  "isDefault": true
+		},
+		"problemMatcher": ["$gcc"],
+		"detail": "Generated task to compile with TBB"
+	  }
+	]
+  }
+  
