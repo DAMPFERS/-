@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROGRAMS\\Parallel computing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9200CFE0-52C6-4037-9C15-F4C46D42F23A}|Parallel computing.vcxproj|C:\\PROGRAMS\\Parallel computing\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9200CFE0-52C6-4037-9C15-F4C46D42F23A}|Parallel computing.vcxproj|solutionrelative:test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test1.c",
+              "DocumentMoniker": "C:\\PROGRAMS\\Parallel computing\\test1.c",
+              "RelativeDocumentMoniker": "test1.c",
+              "ToolTip": "C:\\PROGRAMS\\Parallel computing\\test1.c",
+              "RelativeToolTip": "test1.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-08T12:41:17.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

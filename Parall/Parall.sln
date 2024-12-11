@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parall", "Parall.vcxproj", "{390AF019-34B2-4BB0-A362-346EB4E40F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390AF019-34B2-4BB0-A362-346EB4E40F58}.Debug|x64.ActiveCfg = Debug|x64
+		{390AF019-34B2-4BB0-A362-346EB4E40F58}.Debug|x64.Build.0 = Debug|x64
+		{390AF019-34B2-4BB0-A362-346EB4E40F58}.Debug|x86.ActiveCfg = Debug|Win32
+		{390AF019-34B2-4BB0-A362-346EB4E40F58}.Debug|x86.Build.0 = Debug|Win32
+		{390AF019-34B2-4BB0-A362-346EB4E40F58}.Release|x64.ActiveCfg = Release|x64
+		{390AF019-34B2-4BB0-A362-346EB4E40F58}.Release|x64.Build.0 = Release|x64
+		{390AF019-34B2-4BB0-A362-346EB4E40F58}.Release|x86.ActiveCfg = Release|Win32
+		{390AF019-34B2-4BB0-A362-346EB4E40F58}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCBBF080-91C3-4329-AAF0-9A17BC73B757}
+	EndGlobalSection
+EndGlobal
